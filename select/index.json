@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Ana Bakhaf Min El Commitment",
+  "base_artist": "Jadal",
+  "createdAt": "2026-03-29T18:01:26.539693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ana Bakhaf Min El Commitment",
+      "artist": "Jadal",
+      "has_synced": true,
+      "path": "select/01_Ana_Bakhaf_Min_El_Commitment_Jadal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ana Bakhaf Min El Commitment",
+      "artist": "Jadal",
+      "has_synced": true,
+      "path": "select/02_Ana_Bakhaf_Min_El_Commitment_Jadal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ana Bakhaf Min El Commitment",
+      "artist": "جدل",
+      "has_synced": true,
+      "path": "select/03_Ana_Bakhaf_Min_El_Commitment_جدل.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "02-Ana Bakhaf Min El Commitment",
+      "artist": "Jadal",
+      "has_synced": true,
+      "path": "select/04_02-Ana_Bakhaf_Min_El_Commitment_Jadal.lrc"
+    }
+  ]
+}
